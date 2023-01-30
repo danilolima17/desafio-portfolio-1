@@ -236,11 +236,7 @@ a {
     font-size: 12px;
 }
 
-footer{
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 10px 0px;
+footer {
     background: var(--bg-cards);
+    width: 100%;
 }
